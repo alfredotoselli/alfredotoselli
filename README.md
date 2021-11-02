@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fredo
 - 👀 I’m interested in Cryptocurrencis (techonology and economics/social/political implications) and cybersecurity
-- 🌱 I’m currently learning Solidity Smart Contract development 
-- 💞️ I’m looking to collaborate on Blockchain projects -> Smart Contract development
+- 🌱 I’m currently learning Smart Contract development 
+- 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me -> linkedin.com/in/alfredo-toselli-0ba32816a
 
 <!---
