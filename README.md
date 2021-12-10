@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fredo
-- 👀 I’m interested in Cryptocurrencis (techonology and economics/social/political implications)
-- 🌱 I’m currently learning Smart Contract development 
+- 👀 I’m interested in Web3 and economics/social/political/technological implications of cryptos
+- 🌱 I’m currently learning Smart Contract development and reinforcing my Computer Science basis (Data structures and Algorithms). Tryin to approach competitive programming
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me -> Telegram: @Fredo409
