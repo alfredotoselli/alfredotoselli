@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fredo
-- 👀 I’m interested in a lot of things and Web3 ?
+- 👀 I’m interested in a lot of things (and Web3?)
 - 🌱 I'm currently learning...
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me -> Telegram: @Fredo409
