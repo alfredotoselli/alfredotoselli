@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alfredo
-- 👀 I’m interested in...
-- 🌱 I'm currently learning...
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me -> Telegram: @Fredo409
+- 📫 How to reach me:
+  - fredo.address@gmail.com
+  - Telegram: @fredoot
+ 
