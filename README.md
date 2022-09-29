@@ -1,6 +1,6 @@
 ## Hi, I’m Alfredo 👋 
 - 📫 How to reach me:
-  - fredo.address@gmail.com
+  - alfredotoselli0@gmail.com
   - Telegram: @fredoot
   - Discord: fredo#4198
  
